@@ -1,4 +1,4 @@
-# Amazon Fake Reviews Detection
+# Fake Reviews Detection
 
 We collected multiple layers of Amazon product and review data to identify fake reviews. In this repo you will find two notebooks that contain Python code to do:
 1. Cleaning data: the data we get from scraping aren't yet ready to be analyzed, so we did several data cleaning steps
